@@ -1,0 +1,7 @@
+# Netlify Redirects Configuration for Full-Stack Academic Resource Hub
+
+# 1. Route API requests directly to Netlify Serverless Function
+/api/*    /.netlify/functions/api/:splat   200
+
+# 2. Single Page Application (SPA) Client-Side Routing for React Router
+/*        /index.html                     200
