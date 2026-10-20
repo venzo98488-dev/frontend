@@ -1,0 +1,7 @@
+Academic Resource Sharing Hub - Unique Features
+
+1. AI-Powered Personalized Recommendations:
+Utilizes artificial intelligence to analyze student behavior and preferences, providing personalized resource suggestions tailored to their individual learning needs.
+
+2. Real-Time Chat for Doubt Clearance:
+Incorporates a live chat functionality, enabling students to communicate directly with staff members for instant support and doubt resolution.
